@@ -1,5 +1,5 @@
 # Steps to start documenting the equipment/design you found and chose 
-[See this documentation example](https://github.com/CombatCovid/medical-shields-for-3d-printing). You can also download it to see the final result.
+[See this documentation example](https://github.com/CombatCovid/mit-emergency-ventilator). You can also download it to see the final result.
 ## 1. Getting started
 Use this template and guidelines to make your documentation more FAIR (Findable Accessible Interoperable and Reusable). The template has a simple structure that allows to easily present your content separating the source files(src) that users need to replicate from explanations (docs), and guides that explain how to use the source files. 
 
@@ -32,7 +32,7 @@ If you want to translate the content in the `docs` folder for instance to Russia
 
 
 # Pasos para comenzar a documentar el equipo / diseño que encontró y eligió
-[Vea este ejemplo de documentación] (https://github.com/CombatCovid/medical-shields-for-3d-printing). También puedes descargarlo para ver el resultado final.
+[Vea este ejemplo de documentación] (https://github.com/CombatCovid/mit-emergency-ventilator) También puedes descargarlo para ver el resultado final.
 ## 1. Comenzando
 Use esta plantilla y pautas para hacer que su documentación sea MÁS JUSTA (interoperable, accesible y reutilizable). La plantilla tiene una estructura simple que permite presentar fácilmente su contenido separando los archivos fuente (src) que los usuarios necesitan replicar de las explicaciones (documentos) y guías que explican cómo usar los archivos fuente.
 
